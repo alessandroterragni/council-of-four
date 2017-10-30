@@ -1,0 +1,3 @@
+src/configurationFilesTest/BonusFile.txt
+src/configurationFilesTest/TownFile.txt
+src/configurationFilesTest/EdgeFile.txt

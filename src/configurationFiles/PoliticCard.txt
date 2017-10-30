@@ -1,0 +1,7 @@
+White:White:White:White:White:White:White:White:White:White:White:White:White
+Pink:Pink:Pink:Pink:Pink:Pink:Pink:Pink:Pink:Pink:Pink:Pink:Pink
+Orange:Orange:Orange:Orange:Orange:Orange:Orange:Orange:Orange:Orange:Orange:Orange:Orange
+Black:Black:Black:Black:Black:Black:Black:Black:Black:Black:Black:Black:Black
+Magenta:Magenta:Magenta:Magenta:Magenta:Magenta:Magenta:Magenta:Magenta:Magenta:Magenta:Magenta:Magenta
+Blue:Blue:Blue:Blue:Blue:Blue:Blue:Blue:Blue:Blue:Blue:Blue:Blue
+AllColors:AllColors:AllColors:AllColors:AllColors:AllColors:AllColors:AllColors:AllColors:AllColors:AllColors:AllColors

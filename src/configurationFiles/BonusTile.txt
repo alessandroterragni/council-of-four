@@ -1,0 +1,7 @@
+Mountains>VPB 5
+Plains>VPB 5
+Coast>VPB 5
+Iron>VPB 5
+Bronze>VPB 8
+Silver>VPB 12
+Gold>VPB 20

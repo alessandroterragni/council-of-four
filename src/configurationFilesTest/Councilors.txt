@@ -1,0 +1,6 @@
+White:White:White
+Pink:Pink:Pink
+Orange:Orange:Orange
+Black:Black:Black
+Magenta:Magenta:Magenta
+Blue:Blue:Blue

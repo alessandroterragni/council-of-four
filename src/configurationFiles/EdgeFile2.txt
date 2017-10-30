@@ -1,0 +1,15 @@
+Arkon>Burgen>Castrum
+Burgen>Arkon>Dorful>Esti
+Castrum>Arkon>Framek
+Dorful>Burgen>Graden
+Esti>Burgen>Hellar
+Framek>Castrum>Indur
+Graden>Dorful>Juvelar
+Hellar>Esti>Juvelar>Merkatim
+Indur>Framek>Juvelar>Kultos
+Juvelar>Hellar>Graden>Indur>Lyram
+Kultos>Lyram
+Lyram>Juvelar>Kultos>Naris
+Merkatim>Hellar>Osium
+Naris>Lyram
+Osium>Merkatim

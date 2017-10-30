@@ -1,0 +1,18 @@
+Coast
+Arkon>VPB 4:CB 3
+Burgen>DCB 3:AB 1
+Castrum>AB 2:CB 3
+Dorful>VPB 7
+STOP
+Plains
+Framek>DCB 2:CB 4
+Graden>AB 2:VPB 2:NB 1
+Hellar>AB 4
+Indur>DCB 2:AB 2
+STOP
+Mountains
+Merkatim Naris Osium>NB 1:VPB 1
+Lyram Merkatim Naris>VPB 3
+Kultos>DCB 4
+Lyram>CB 1:AB 3
+END

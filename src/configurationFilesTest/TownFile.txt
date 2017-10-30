@@ -1,0 +1,3 @@
+Arkon:A false Coast Gold
+Graden:G false Plains Silver
+Juvelar:J true Plains King

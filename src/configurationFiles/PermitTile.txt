@@ -1,0 +1,51 @@
+Coast
+Arkon>VPB 4:CB 3
+Burgen>DCB 3:AB 1
+Castrum>AB 2:CB 3
+Dorful>VPB 7
+Esti>MAB 1:CB 2
+Arkon Burgen>CB 3:DCB 1
+Arkon Esti>NB 2
+Burgen Castrum>VPB 3:CB 3
+Castrum Dorful>VPB 3:AB 1
+Dorful Esti>VPB 3:AB 1
+Arkon Burgen Castrum>AB 2
+Arkon Dorful Esti>CB 1:VPB 2
+Arkon Burgen Esti>CB 3
+Castrum Dorful Esti>DCB 1:NB 1
+Burgen Castrum Dorful>AB 1:VPB 1
+STOP
+Plains
+Framek>DCB 2:CB 4
+Graden>AB 2:VPB 2:NB 1
+Hellar>AB 4
+Indur>DCB 2:AB 2
+Juvelar>MAB 1:VPB 2
+Indur Juvelar>DCB 2:NB 1
+Framek Juvelar>AB 2:CB 1
+Hellar Graden>AB 3
+Framek Graden>CB 5
+Hellar Indur>VPB 5
+Indur Graden Hellar>DCB 2
+Framek Graden Juvelar>CB 2:VPB 1
+Framek Graden Hellar>NB 1:CB 1
+Framek Indur Juvelar>AB 1:NB 1
+Graden Hellar Indur>DCB 1:AB 1
+STOP
+Mountains
+Kultos>DCB 4
+Lyram>CB 1:AB 3
+Merkatim>VPB 5:NB 1
+Naris>CB 7
+Osium>DCB 3:NB 1
+Osium Kultos>DCB 2:NB 1
+Merkatim Lyram>DCB 3
+Merkatim Naris>MAB 1
+Kultos Lyram>DCB 1:AB 2
+Naris Osium>VPB 2:DCB 2
+Kultos Lyram Osium>DCB 1:CB 1
+Kultos Lyram Merkatim>AB 1:CB 1
+Kultos Naris Osium>DCB 1:VPB 1
+Merkatim Naris Osium>NB 1:VPB 1
+Lyram Merkatim Naris>VPB 3
+END
