@@ -1,5 +1,5 @@
 # *Council of Four™* --- README #
-*This readme file is far more readable and eye-appealing if opened and read via the BitBucket platform*
+*The img folder is empty due to copyright reasons, thus, the gui will not work*
 ### Introduction ###
 
 ##### Quick Summary #####
@@ -55,7 +55,7 @@ For this reason, in order to set up a game it is necessary to follow some steps:
 
     You can choose to run the clients by running the `GuiClient.java` class in the `connections` package. You will be able to perform the same choices listed above interacting with a dedicated graphical interface instead of typing them into the command line. It should look something like this:
 
-    ![cofselection.gif](https://bitbucket.org/repo/bzp5kz/images/3365112576-cofselection.gif)
+    ![Alt text](https://github.com/alessandroterragni/council-of-four/blob/master/src/img/readme/gui.png)
 
 ---------------------------------------
 
@@ -233,8 +233,8 @@ In order for the GUI to properly match the given model, some additional configur
 
     Here's an example of configuration map and the corresponding color mask:
 
-    ![towns.jpg](https://bitbucket.org/repo/bzp5kz/images/721512397-towns.jpg)
-    ![colorCodedTowns.jpg](https://bitbucket.org/repo/bzp5kz/images/1387858144-colorCodedTowns.jpg)
+    ![Alt text](https://github.com/alessandroterragni/council-of-four/blob/master/src/img/readme/map.png)
+    ![Alt text](https://github.com/alessandroterragni/council-of-four/blob/master/src/img/readme/color%20map.png)
 
     *(Note: all needed images can be in any format - `.jpg`, `.png`, ... - but it is absolutely important that who produces the color mask makes sure that the colors used match the ones in the corresponding configuration file for their integer RGB code, and makes sure that the given code is correctly read by Java!)*
 
@@ -352,7 +352,7 @@ Once the connection was set up correctly, the client will communicate with the s
 
 Here is a graph that summarizes the connections architecture:
 
-![connectionsScheme.png](https://bitbucket.org/repo/bzp5kz/images/3062468640-connectionsScheme.png)
+![connectionsScheme.png](https://github.com/alessandroterragni/council-of-four/blob/master/src/img/readme/connections.png)
 
 *(Open in a new new tab to view full-resolution image)*
 
